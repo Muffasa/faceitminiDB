@@ -1,0 +1,3 @@
+Name:Shimrit Magen
+Age:25
+Gender:F

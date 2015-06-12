@@ -1,0 +1,3 @@
+Name:hariet chertok
+Age:60
+Gender:F
